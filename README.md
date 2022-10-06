@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-design-k0H2g7Df5d
+- Live Site URL: https://huddle-landing-page-with-single-intro-three.vercel.app/
 
 ## My process
 
@@ -35,5 +35,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Githb](https://github.com/nourokbi)
 - Frontend Mentor - [@nourokbi](https://www.frontendmentor.io/profile/nourokbi)
